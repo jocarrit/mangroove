@@ -1,6 +1,6 @@
 ---
 title: El manglar y estero de Puntarenas
-subtitle: Necesita que tomemos conciencia
+subtitle: Necesitan que tomemos conciencia
 image: /img/home-jumbotron.jpg
 blurb:
   heading: ¿Porqué nos debe importar?
@@ -12,30 +12,27 @@ blurb:
 intro:
   heading: ¿Que nos puede dar el manglar?
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    El manglar nos puede proveer de diferentes servicios ecosistémicos, que son
+    los beneficios que las personas podemos obtener del funcionamientode los
+    ecosistemas.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      La pesca ha sido la actividad que se ha explotado mayormente del manglar,
+      y se puede seguir aprovechando si se toman las medidas necesarias para
+      cuidar este ecosistema
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      La regulación climática es otro servicio importante. ¿Sabía usted que los
+      manglares son los mayores captadores de Carbono que existen?
 values:
   heading: Nuestro Objetivo
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    El Estero y Manglar de Puntarenas, han estado ahí por mucho tiempo como una
+    fachada verde, la cual los mismo habitantes locales no sabemos que pasa
+    detrás (o debajo).  Hemos normalizado la contaminación y la destrucción de
+    este ecosistema, tanto que no sabemos la gran labor que han desarrollado
+    algunas organizaciones tanto gubernamentales como ONG´s. Informar mas a la
+    población y lograr que mas gente tome consciencia es nuestro mayor objetivo.
 ---
 
