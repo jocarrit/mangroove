@@ -1,14 +1,16 @@
 ---
 title: El manglar y estero de Puntarenas
 subtitle: Necesitan que tomemos conciencia
-image: /img/home-jumbotron.jpg
+image: /img/cs1600092_img-13_large.jpg
 blurb:
   heading: ¿Porqué nos debe importar?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Porque nos ha dado mucho, durante mucho tiempo. Nos da alimento, regula
+    nuestro clima, puede prevenir desastres naturales; pero la mayoría solo
+    vemos un montón de árboles y agua café.
+
+    Ha sido contaminado y deforestado por mucho tiempo, pero hay gente
+    trabajando para detener su destrucción
 intro:
   heading: ¿Que nos puede dar el manglar?
   text: >-
@@ -16,12 +18,12 @@ intro:
     los beneficios que las personas podemos obtener del funcionamientode los
     ecosistemas.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/fish.svg
     text: >-
       La pesca ha sido la actividad que se ha explotado mayormente del manglar,
       y se puede seguir aprovechando si se toman las medidas necesarias para
       cuidar este ecosistema
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/weather.svg
     text: >-
       La regulación climática es otro servicio importante. ¿Sabía usted que los
       manglares son los mayores captadores de Carbono que existen?
