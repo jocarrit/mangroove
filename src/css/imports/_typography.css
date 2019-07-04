@@ -151,3 +151,9 @@ sup {
 .sh {
   text-shadow: 2px 2px 10px #646464;
 }
+
+.main-title {
+  font-family: 'Kaushan Script', cursive;
+  /*font-family: 'Alfa Slab One', cursive;*/
+  /*font-family: 'Gochi Hand', cursive;*/
+}
