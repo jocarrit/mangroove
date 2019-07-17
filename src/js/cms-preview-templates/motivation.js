@@ -18,7 +18,7 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
   </div>;
 };
 
-export default class ValuesPreview extends React.Component {
+export default class MotivationPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
     
@@ -29,7 +29,7 @@ export default class ValuesPreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
     
-    const entryValues = entry.getIn(["data", "values"]);
+    const entryValues = entry.getIn(["data", "motivation"]);
     const values = entryValues ? entryValues.toJS() : [];
     
     return <div>
