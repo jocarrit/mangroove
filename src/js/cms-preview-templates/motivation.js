@@ -29,7 +29,7 @@ export default class MotivationPreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
     
-    const entryValues = entry.getIn(["data", "motivation"]);
+    const entryValues = entry.getIn(["data", "values"]);
     const values = entryValues ? entryValues.toJS() : [];
     
     return <div>
