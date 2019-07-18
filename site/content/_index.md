@@ -1,7 +1,7 @@
 ---
 title: El manglar y estero de Puntarenas
 subtitle: Necesitan que tomemos conciencia
-image: /img/fachada.jpg
+image: /img/fachada-verde.jpg
 blurb:
   heading: ¿Porqué nos debe importar?
   text: >-
