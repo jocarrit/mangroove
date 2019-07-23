@@ -46,3 +46,5 @@ También hoy en día existen grupos de personas como la [Asociación de marinos 
 ¿Que puede hacer usted?
 
 Póngase en contacto con este tipo de asociaciones y tendales una mano, un rato de su tiempo, ayuda económica o en especies y por ahora, por favor ayúdenos a difundir este mensaje, para que nuestro manglar deje de ser visto como una fachada verde cuando pasamos por la Angostura y empiece a ser visto como lo que es, un gran tesoro.
+
+Autor: Jose Manuel Carrillo, para el TCU de la Universidad Técnica Nacional sede del Pacífico
