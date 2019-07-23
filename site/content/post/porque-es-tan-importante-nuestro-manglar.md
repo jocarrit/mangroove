@@ -31,7 +31,7 @@ Según SINAC (Sistema de áreas para la conservación), los manglares de la zona
 
 ## Problemas que afronta el Manglar
 
-![](/img/timelapse.gif)
+!["](/img/timelapse.gif)
 
 Como podemos ver en la imagen, la cual representa un timelapse desde 1984 hasta 2018 del Manglar de Puntarenas, uno de sus principales problemas es la deforestación. Según The Blue Carbon Iniciative, a nivel mundial se han perdido el 50% de las áreas de manglar a nivel global, y el [XXI Informe del estado de la Nación](http://www.estadonacion.or.cr/21/assets/en-21-cap-4.pdf), nos dice que Costa Rica ha perdido el 42% en los últimos 34 años.
 
