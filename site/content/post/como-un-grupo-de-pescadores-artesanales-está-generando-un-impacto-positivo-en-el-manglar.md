@@ -21,7 +21,7 @@ Según Donald Villarreal, esta idea fue inspirada en una iniciativa que realizar
 
 _Salón Comunal de San Luis, donde se realizó el vivero con cerca de 600 plantitas de mangle_
 
-El pasado martes 16 de Julio, tuvimos la oportunidad de asistir a la realización de un vivero de mangle, donde pudimos constatar el involucramiento de la comunidad. Donald nos contó que no ha sido fácil, el primer paso fue que ellos mismos hicieran conciencia, luego se les fueron uniendo familiares de pescadores y han logrado que los niños de la escuela de San Luis participen en la creación de viveros de mangle. 
+El pasado miércoles 17 de Julio, tuvimos la oportunidad de asistir a la realización de un vivero de mangle, donde pudimos constatar el involucramiento de la comunidad. Donald nos contó que no ha sido fácil, el primer paso fue que ellos mismos hicieran conciencia, luego se les fueron uniendo familiares de pescadores y han logrado que los niños de la escuela de San Luis participen en la creación de viveros de mangle. 
 
 ![vecinas de San Luis](/img/vecinas.jpg "Vecinas de San Luis ayudando en el vivero de mangle")
 
