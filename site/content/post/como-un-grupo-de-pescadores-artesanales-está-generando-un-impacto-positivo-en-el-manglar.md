@@ -27,7 +27,7 @@ El pasado miércoles 17 de Julio, tuvimos la oportunidad de asistir a la realiza
 
 _Roxana Aparicio y Lucía Montano, son vecinas de San Luis que aportan de su tiempo en la construcción del vivero de mangle_
 
-Cuando comenzaron, les tocaba afrontar la parte económica de su propia bolsa, pero gracias al esfuerzo y los resultados, han logrado que instituciones del estado como la Municipalidad, Incopesca, Imas, MAG, UCR y la Universidad Técnica Nacional, les den su apoyo con materiales como bolsas, guantes, agua, combustible y lo mas importante: "Manos", así como los amigos de [Un Puerto Limpio](https://www.facebook.com/UnPuertoLimpio).
+Cuando comenzaron, les tocaba afrontar la parte económica de su propia bolsa, pero gracias al esfuerzo y los resultados, han logrado que instituciones del estado como la Municipalidad, Incopesca, Imas, MAG, UCR y la Universidad Técnica Nacional, les den su apoyo con materiales como guantes, agua, combustible y lo mas importante: "Manos", así como los amigos de [Un Puerto Limpio](https://www.facebook.com/UnPuertoLimpio), quienes se encargaron de provisionarles todas las bolsas. 
 
 ![Integrante de Asociación de Marinos Artesanales de San Luis](/img/juan-de-dios.jpg "Juan de Dios, Integrante de Asociación de Marinos Artesanales de San Luis")
 
