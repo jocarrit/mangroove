@@ -20,10 +20,18 @@
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="website"/>
-	<meta property="og:title" content="Manglar Puntarenas"/>
+	<meta property="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}"/>
 	<meta property="og:description" content="El manglar de Puntarenas lleva años estando ahí, como una fachada verde, inmóvil, indefenso, no sabemos mucho que pasa allí, para la mayoría de porteños es cercano en distancia, pero lejano en importancia."/>
-	<meta property="og:url" content="https://www.manglarpuntarenas.org"/>
-	<meta property="og:image" content="https://www.manglarpuntarenas.org/img/ogimage.jpg"/>
+	<meta property="og:url" content="{{ .URL }}"/>
+	<!--  <meta property="og:image" content="https://www.manglarpuntarenas.org/img/ogimage.jpg"/> -->
+	{{ with .Params.image }}
+      <meta property="og:image" content="{{ . | absURL }}">
+    {{ end }}
+    {{ with .Params.gallery }}
+      {{ range . }}
+        <meta property="og:image" content="{{ range first 1 (split . " ") }}{{ . | absURL }}{{ end }}">
+      {{ end }}
+    {{ end }}
 	
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
