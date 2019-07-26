@@ -1,5 +1,5 @@
 ---
-title: Paso a paso de como se hace un vivero de Mangle
+title: Cómo se hace un vivero de Mangle en 10 pasos
 date: 2019-07-25T12:45:30.242Z
 description: >-
   Los amigos de la Asociación de Marinos de San Luis, nos enseñaron paso a paso
@@ -26,13 +26,15 @@ Nuestro amigo Jose Luis Sanchez, vice-presidente de la Asociación de Marinos de
    ![llenado de bolsitas](/img/llenado-de-bolsas.jpg "Comunidad e instituciones colaborando en llenado de bolsitas de barro de manglar")
 7. Luego en cada bolsita se siembra una "semilla" de mangle, esta debe incrustarse un centímetro mas arriba de la zona de color café. <br/>\
    ![siembra de mangle](/img/vecinas.jpg "vecinas sembrando mangle")
-8. Por último se acomodan en filas para su fácil mantenimiento
+8. Por último se acomodan en filas para su fácil mantenimiento.<br/><br/>
    ![vivero de mangle](/img/vivero.jpg "vivero de mangle")
-9. De aquí para adelante viene la etapa de mantenimiento, donde los integrantes de la asociación se turnan por grupos para darle riego a las plantitas y sustituir las que no sobrevivan. Este proceso dura tres meses, por lo menos hasta que nazcan las primeras 3 o 4 hojitas.
+9. De aquí para adelante viene la etapa de mantenimiento, donde los integrantes de la asociación se turnan por grupos para darle riego a las plantitas y sustituir las que no sobrevivan. Este proceso dura tres meses, por lo menos hasta que nazcan las primeras 3 o 4 hojitas.<br/><br/>
       ![mangle germinado](/img/mangle-pequeno.jpg "mangle germinado, listo para transplantar")
    _Imagen con fines ilustrativos, mangle rojo germinado listo para trasplantarlo al manglar_
 
-En octubre estaremos informando sobre la siembra de estos arbolitos.
+10. Por último, se procede a la siembra, trasplantando a la zona escogida las plantas que crecieron con éxito.
+
+Si Dios lo permite, en octubre estaremos informando sobre la siembra de estos arbolitos.
 
 Por favor, [Síganos en Facebook y comparta este mensaje](https://www.facebook.com/manglarpuntarenas)
 
