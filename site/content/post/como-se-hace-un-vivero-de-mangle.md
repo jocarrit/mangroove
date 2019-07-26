@@ -7,6 +7,22 @@ description: >-
   poco el Manglar de Puntarenas
 image: /img/semillas.jpg
 ---
-El pasado Martes 17 de Julio, tuvimos la oportunidad de compartir con gente de la comunidad de San Luis, personal de Incopesca, Imas, estudiantes de TCU de la UTN e integrantes del grupo [Un Puerto Limpio](https://www.facebook.com/UnPuertoLimpio/), donde con la instrucción de los representantes de la Asociación de Marinos de San Luis se sembraron cerca de 600 "semillas" de mangle rojo, que en unos meses serán plantados en el manglar.
+El pasado Martes 17 de Julio, tuvimos la oportunidad de compartir con gente de la comunidad de San Luis, personal de Incopesca, Imas, estudiantes de TCU de la UTN e integrantes del grupo [Un Puerto Limpio](https://www.facebook.com/UnPuertoLimpio/), donde con la instrucción de los representantes de la Asociación de Marinos de San Luis se sembraron cerca de 600 "semillas" de mangle rojo([_Rhizophora mangle_](https://es.wikipedia.org/wiki/Rhizophora_mangle)), que en unos meses serán plantados en el manglar.
 
-Nuestro amigo Jose Luis Sanchez
+![Salón comunal de San Luis](/img/salon-san-luis.jpg "Salón comunal de San Luis, donde se desarrolló el vivero")
+
+Nuestro amigo Jose Luis Sanchez, vice-presidente de la Asociación de Marinos de San Luis, nos explicó el proceso paso a paso:
+
+1. Lo primero es identificar una zona del manglar que esté afectada, por la contaminación y por la deforestación.
+2. Se debe limpiar completamente la zona de basura.
+3. Se recolecta una cantidad importante de barro de la misma zona que se escogió y limpió, esto con el fin de mantener las propiedades del suelo.
+
+![barro recolectado del manglar](/img/barro.jpg "barro recolectado del manglar")
+
+4. Seguidamente, el barro es colocado en bolsas plásticas debidamente preparadas con pequeños orificios para que se drene el exceso de humedad.
+
+![bolsas para sembrar mangle](/img/bolsas.jpg "bolsas para sembrar mangle")
+
+5. Despues las bolsitas son llenadas con barro, con cierto nivel de agua
+   ![llenado de bolsitas](/img/llenado-de-bolsas.jpg "Comunidad e instituciones colaborando en llenado de bolsitas de barro de manglar")
+6. Luego en cada bolsita se siembra una "semilla" de mangle
