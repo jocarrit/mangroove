@@ -16,13 +16,9 @@ Nuestro amigo Jose Luis Sanchez, vice-presidente de la Asociación de Marinos de
 1. Lo primero es identificar una zona del manglar que esté afectada, por la contaminación y por la deforestación.
 2. Se debe limpiar completamente la zona de basura.
 3. Se recolecta una cantidad importante de barro de la misma zona que se escogió y limpió, esto con el fin de mantener las propiedades del suelo.
-
-![barro recolectado del manglar](/img/barro.jpg "barro recolectado del manglar")
-
+   ![barro recolectado del manglar](/img/barro.jpg "barro recolectado del manglar")
 4. Seguidamente, el barro es colocado en bolsas plásticas debidamente preparadas con pequeños orificios para que se drene el exceso de humedad.
-
-![bolsas para sembrar mangle](/img/bolsas.jpg "bolsas para sembrar mangle")
-
+   ![bolsas para sembrar mangle](/img/bolsas.jpg "bolsas para sembrar mangle")
 5. Despues las bolsitas son llenadas con barro, con cierto nivel de agua
    ![llenado de bolsitas](/img/llenado-de-bolsas.jpg "Comunidad e instituciones colaborando en llenado de bolsitas de barro de manglar")
 6. Luego en cada bolsita se siembra una "semilla" de mangle
