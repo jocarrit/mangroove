@@ -11,7 +11,7 @@ El pasado Martes 17 de Julio, tuvimos la oportunidad de compartir con gente de l
 
 ![Salón comunal de San Luis](/img/salon-san-luis.jpg "Salón comunal de San Luis, donde se desarrolló el vivero")
 
-Nuestro amigo Jose Luis Sanchez, vice-presidente de la Asociación de Marinos de San Luis, nos explicó el proceso paso a paso:
+Nuestro amigo José Luis Sánchez, vice-presidente de la Asociación de Marinos de San Luis, nos explicó el proceso paso a paso:
 
 1. Lo primero es identificar una zona del manglar que esté afectada, por la contaminación y por la deforestación.<br/><br/>
 2. Se debe limpiar completamente la zona de basura.<br/><br/>
